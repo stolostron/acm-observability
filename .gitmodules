@@ -1,3 +1,6 @@
 [submodule "prometheus"]
 	path = prometheus
 	url = https://github.com/prometheus/prometheus.git
+[submodule "prometheus-operator"]
+	path = prometheus-operator
+	url = https://github.com/prometheus-operator/prometheus-operator.git
