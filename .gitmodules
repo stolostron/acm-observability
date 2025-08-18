@@ -13,3 +13,6 @@
 [submodule "kube-state-metrics"]
 	path = kube-state-metrics
 	url = https://github.com/kubernetes/kube-state-metrics.git
+[submodule "node-exporter"]
+	path = node-exporter
+	url = https://github.com/prometheus/node_exporter.git
