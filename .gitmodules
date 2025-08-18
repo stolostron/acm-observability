@@ -10,3 +10,6 @@
 [submodule "thanos"]
 	path = thanos
 	url = https://github.com/thanos-io/thanos.git
+[submodule "kube-state-metrics"]
+	path = kube-state-metrics
+	url = https://github.com/kubernetes/kube-state-metrics.git
