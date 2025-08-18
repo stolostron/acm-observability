@@ -22,3 +22,6 @@
 [submodule "grafana"]
 	path = grafana
 	url = https://github.com/grafana/grafana.git
+[submodule "kube-thanos"]
+	path = kube-thanos
+	url = https://github.com/thanos-io/kube-thanos.git
