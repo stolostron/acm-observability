@@ -16,3 +16,6 @@
 [submodule "node-exporter"]
 	path = node-exporter
 	url = https://github.com/prometheus/node_exporter.git
+[submodule "kube-rbac-proxy"]
+	path = kube-rbac-proxy
+	url = https://github.com/brancz/kube-rbac-proxy.git
