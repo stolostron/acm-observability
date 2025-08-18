@@ -25,3 +25,7 @@
 [submodule "kube-thanos"]
 	path = kube-thanos
 	url = https://github.com/thanos-io/kube-thanos.git
+[submodule "observatorium-operator"]
+	path = observatorium-operator
+	url = https://github.com/observatorium/operator.git
+	branch = master
